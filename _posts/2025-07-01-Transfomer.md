@@ -7,7 +7,7 @@ tags: [ai, models] ## TAG names should always be lowercase
 ---
 
 1.请你解释一下 Transformer 的注意力机制是如何实现的？
-A: Transformer 中的注意力机制主要是 “Scaled Dot-Product Attention”，它是模型学习“当前词与其他词之间的关联”的核心模块![alt text](<attention_formula.png>)
+A: Transformer 中的注意力机制主要是 “Scaled Dot-Product Attention”，它是模型学习“当前词与其他词之间的关联”的核心模块![img-description](/assets/img/attention_formula.png)
 
 2. Transformer 的注意力机制如何实现？
 Transformer 中的注意力实现是 Scaled Dot-Product Attention，它的计算过程是：
