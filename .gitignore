@@ -25,3 +25,7 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+.DS_Store
+
+# Not yet finished files
+./_posts/2025-10-20-Math-learning.md
