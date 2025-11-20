@@ -1,5 +1,5 @@
 ---
-title: "Linux"
+title: "Linux2"
 date: 2025-11-11 10:00:00 +0800
 categories: [CS basics, Linux] # [Top_category, sub_category]
 tags: [linux]      # TAG names should always be lowercase
